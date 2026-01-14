@@ -8,7 +8,7 @@ Also sometimes breaking it. On purpose.
 - Yap https://cb341.dev
 - Discord https://discord.com/invite/2zB82NKA
 - LinkedIn https://www.linkedin.com/in/daniel-bengl-aa5225221/
-- pronouns https://en.pronouns.page/@CuddlyBunion341
+- pronouns https://en.pronouns.page/@cb341
 
 ## Who iz me?
 
