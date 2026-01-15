@@ -10,7 +10,7 @@
 Somehow here, trying to make the world a better place.  
 Also sometimes breaking it. On purpose.
 
-- Yap https://cb341.dev
+- My page [cb341.dev](https://cb341.dev)
 - Discord https://discord.com/users/456151064484249612
 - LinkedIn https://www.linkedin.com/in/daniel-bengl-aa5225221/
 - pronouns https://en.pronouns.page/@cb341
@@ -20,7 +20,6 @@ Also sometimes breaking it. On purpose.
 - Proud Ruby on Rails dev at Renuo (2y+), I know some rails (I think)
 - Computer Science student at Zurich School of Engineering ZHAW, part time
 - Board member of da queer group at ZHAW
-- I sometimes write words at cb341.dev
 - Currently learning Rust, compiler yells at me but we are getting there
 - Very interested in low level computers, ASM, transistors, logic and how bits actually think
 - I am a [Logician](https://www.16personalities.com/free-personality-test) (INT-P)
@@ -30,14 +29,21 @@ Also sometimes breaking it. On purpose.
 - Programming and telling computers what to do
 - Factory simulation games, I liekw using calculators
 - Computer graphics, like digging around in pixels, very newbie but curious
-- Unix systems and friendly terminals
+- Unix systems and terminals
+- Learning curves
+
+### Stuff I don't like
+
+- Java
+- Slow software
+- Microsoft
 
 ### Things I also like doing
 
 - I like breaking stuff
 - "Occasionaly" create and review Memes
 - Yap on Discord
-- Sometimes I write some words. RSS: https://cb341.dev/rss.xml
+- Sometimes I write some words. [RSS](https://cb341.dev/rss.xml)
 - Calculus / Algebra
 - Reading papers
 - Overthinking
