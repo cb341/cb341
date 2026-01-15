@@ -51,6 +51,7 @@ Also sometimes breaking it. On purpose.
 
 ### Teh tech I touch
 
+_ping me if u want to see some of my Blender / P5 JS projects_
 <img src="https://skillicons.dev/icons?i=apple,arch,astro,bash,bevy,blender,bootstrap,bun,devto,git,graphql,heroku,java,latex,neovim,nix,notion,obsidian,p5js,postgres,rails,react,ruby,rust,sass,tailwind,threejs,ts,vim,wasm&perline=10" />
 
 ### Some _recent-ish_ stuff
