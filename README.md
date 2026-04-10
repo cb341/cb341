@@ -57,7 +57,7 @@ $$\lim_{t \to \infty} S(t) = S_{\max}$$
 
 - sometimes i write some words, [rss](https://cb341.dev/rss.xml)
 - i like sharing things
-- open source, mostly MI
+- open source, mostly MIT
 
 ---
 
