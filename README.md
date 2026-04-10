@@ -28,7 +28,7 @@ pronouns: it/its (i like objects)
 
 ### entropy
 
-$$\Delta S \geq 0$$
+$\lim_{t \to \infty} S = \max$
 
 ---
 
