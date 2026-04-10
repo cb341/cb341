@@ -28,7 +28,7 @@ pronouns: it/its (i like objects)
 
 ### entropy
 
-$\lim_{t \to \infty} S = \max$
+$$\lim_{t \to \infty} S(t) = S_{\max}$$
 
 ---
 
