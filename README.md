@@ -25,8 +25,5 @@ _ping me if u want to see some of my blender / p5 js projects_
 - **[64b ram](https://www.reddit.com/r/TuringComplete/comments/1mvqjvt/64bytes_of_ram_made_of_1bit_logic_gates/)** — emulated hardware ram from 1-bit gates
 - **rmu** — concept hardware for SIMD ray marching, still cooking
 
-### mood
-<img src="https://github.com/user-attachments/assets/f9b55492-25f4-45e2-8caa-799ed042f89d" alt="typing" />
-
 ### links
 [cb341.dev](https://cb341.dev) · [rss](https://cb341.dev/rss.xml) · [linkedin](https://www.linkedin.com/in/daniel-bengl-aa5225221/) · [discord @cb341](https://discord.com/users/456151064484249612) · [pronouns](https://en.pronouns.page/@cb341)
